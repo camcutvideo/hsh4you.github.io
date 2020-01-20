@@ -1,8 +1,9 @@
-## Kinder- & Jugendklub Holzwurmhaus
+## Kinder- & Jugendklub <br>
+Holzwurmhaus
 <img id="topmedia" src="images/Logos/holzwurmhaus.png" />
 
 ## Offen
-Di-Do 14-19 Uhr<br>
+Di-Do 14-20 Uhr<br>
 Fr+Sa 13-20 Uhr
 
 ## Aktivitäten
